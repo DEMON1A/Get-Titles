@@ -19,6 +19,7 @@ python3 main.py <FILENAME>
 - **You Could Edit The Code AS You Want Here, Feel Free To Do That**
 - **Sometimes EMPTY Results Might Be Wrong, I Am Working On Fix That.**
 - **The Code Looks Missy I Will Clean It Soon AS Possible.**
+- **All Of My Code Is Functions You Could Use It As You Want By Just Copy The Function.**
 - **Have Fun.**
 
 ### View
