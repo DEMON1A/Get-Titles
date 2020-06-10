@@ -8,6 +8,13 @@ pip3 install colorama
 pip3 install bs4
 ```
 
+## Tool Installation
+```
+git clone https://github.com/DEMON1A/Get-Titles.git
+cd Get-Titles
+python3 main.py <FILENAME>
+```
+
 ## Usage:
 ```
 python3 main.py <FILENAME>
