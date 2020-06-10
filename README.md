@@ -14,7 +14,7 @@ python3 main.py <FILENAME>
 ```
 
 ## Notes:
-- **Filename Should Be IN Same Dir AS ```main.py``` Script **
+- **Filename Should Be IN Same Dir AS ```main.py``` Script**
 - **If You Select Anything Else In (YES OR NO) The Program Will Consider It AS (NO)**
 - **You Could Edit The Code AS You Want Here, Feel Free To Do That**
 - **Sometimes EMPTY Results Might Be Wrong, I Am Working On Fix That.**
